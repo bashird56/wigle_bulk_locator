@@ -1,5 +1,5 @@
 # wigle_bulk_locator
-python script to extract wigle data in mass 
+python script to extract wigle data in bulk
 
 Tracking the Suspect’s Precise Location Using Wigle.net in bulk
 
